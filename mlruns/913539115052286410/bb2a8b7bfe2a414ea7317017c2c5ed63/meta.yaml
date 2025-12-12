@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/bb2a8b7bfe2a414ea7317017c2c5ed63/artifacts
+end_time: 1765519887351
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: bb2a8b7bfe2a414ea7317017c2c5ed63
+run_name: crawling-finch-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519886940
+status: 3
+tags: []
+user_id: root

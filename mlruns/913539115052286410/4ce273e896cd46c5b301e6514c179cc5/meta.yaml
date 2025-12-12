@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/4ce273e896cd46c5b301e6514c179cc5/artifacts
+end_time: 1765519882552
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 4ce273e896cd46c5b301e6514c179cc5
+run_name: polite-goose-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519882104
+status: 3
+tags: []
+user_id: root

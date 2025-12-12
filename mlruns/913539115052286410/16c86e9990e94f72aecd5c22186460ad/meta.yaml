@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/16c86e9990e94f72aecd5c22186460ad/artifacts
+end_time: 1765519884098
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 16c86e9990e94f72aecd5c22186460ad
+run_name: casual-rook-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519883489
+status: 3
+tags: []
+user_id: root

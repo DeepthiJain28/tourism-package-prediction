@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/824a23735dbd4940afc9d183060e1416/artifacts
+end_time: 1765519885225
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 824a23735dbd4940afc9d183060e1416
+run_name: amazing-auk-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519884786
+status: 3
+tags: []
+user_id: root

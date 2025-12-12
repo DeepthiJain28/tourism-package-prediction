@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/3962086210a847bfb7b9741da5969e04/artifacts
+end_time: 1765519878138
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 3962086210a847bfb7b9741da5969e04
+run_name: adaptable-moose-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519877715
+status: 3
+tags: []
+user_id: root

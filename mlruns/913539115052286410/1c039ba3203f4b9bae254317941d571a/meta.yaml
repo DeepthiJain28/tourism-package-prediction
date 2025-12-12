@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/1c039ba3203f4b9bae254317941d571a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 1c039ba3203f4b9bae254317941d571a
+run_name: big-snake-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519575972
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/e1489d0ae5d34f61aeb63a082af2985a/artifacts
+end_time: 1765519877599
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: e1489d0ae5d34f61aeb63a082af2985a
+run_name: orderly-auk-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519877090
+status: 3
+tags: []
+user_id: root

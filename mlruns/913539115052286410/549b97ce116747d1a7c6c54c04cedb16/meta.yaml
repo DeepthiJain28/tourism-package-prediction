@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/549b97ce116747d1a7c6c54c04cedb16/artifacts
+end_time: 1765519887885
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 549b97ce116747d1a7c6c54c04cedb16
+run_name: upbeat-pig-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519887458
+status: 3
+tags: []
+user_id: root

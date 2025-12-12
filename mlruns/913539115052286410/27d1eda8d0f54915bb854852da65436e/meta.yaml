@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/27d1eda8d0f54915bb854852da65436e/artifacts
+end_time: 1765519881421
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 27d1eda8d0f54915bb854852da65436e
+run_name: capricious-crane-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519880936
+status: 3
+tags: []
+user_id: root

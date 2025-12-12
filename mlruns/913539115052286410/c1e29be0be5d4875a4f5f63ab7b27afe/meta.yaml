@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/c1e29be0be5d4875a4f5f63ab7b27afe/artifacts
+end_time: 1765519888416
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: c1e29be0be5d4875a4f5f63ab7b27afe
+run_name: awesome-grouse-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519887993
+status: 3
+tags: []
+user_id: root

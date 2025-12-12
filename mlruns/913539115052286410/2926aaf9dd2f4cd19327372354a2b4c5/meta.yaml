@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/2926aaf9dd2f4cd19327372354a2b4c5/artifacts
+end_time: 1765519884672
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 2926aaf9dd2f4cd19327372354a2b4c5
+run_name: trusting-toad-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519884213
+status: 3
+tags: []
+user_id: root

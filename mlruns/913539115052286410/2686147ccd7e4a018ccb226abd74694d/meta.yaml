@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/2686147ccd7e4a018ccb226abd74694d/artifacts
+end_time: 1765519883304
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 2686147ccd7e4a018ccb226abd74694d
+run_name: abundant-conch-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519882668
+status: 3
+tags: []
+user_id: root

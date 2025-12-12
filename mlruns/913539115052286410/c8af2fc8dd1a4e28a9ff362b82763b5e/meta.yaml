@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/c8af2fc8dd1a4e28a9ff362b82763b5e/artifacts
+end_time: 1765519873740
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: c8af2fc8dd1a4e28a9ff362b82763b5e
+run_name: masked-sheep-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519873312
+status: 3
+tags: []
+user_id: root

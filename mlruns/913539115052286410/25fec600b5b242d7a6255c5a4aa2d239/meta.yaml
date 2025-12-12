@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/25fec600b5b242d7a6255c5a4aa2d239/artifacts
+end_time: 1765519879763
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 25fec600b5b242d7a6255c5a4aa2d239
+run_name: charming-zebra-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519879343
+status: 3
+tags: []
+user_id: root

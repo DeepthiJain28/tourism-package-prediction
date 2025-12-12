@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/daf1a6c2b6cf4588a1c90278714c9f24/artifacts
+end_time: 1765519880291
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: daf1a6c2b6cf4588a1c90278714c9f24
+run_name: enchanting-shark-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519879871
+status: 3
+tags: []
+user_id: root

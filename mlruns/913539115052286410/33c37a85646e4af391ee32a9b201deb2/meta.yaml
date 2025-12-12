@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/33c37a85646e4af391ee32a9b201deb2/artifacts
+end_time: 1765519891617
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 33c37a85646e4af391ee32a9b201deb2
+run_name: spiffy-zebra-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519891184
+status: 3
+tags: []
+user_id: root

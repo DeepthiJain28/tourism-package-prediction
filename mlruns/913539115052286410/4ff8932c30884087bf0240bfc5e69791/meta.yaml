@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/913539115052286410/4ff8932c30884087bf0240bfc5e69791/artifacts
+end_time: 1765519873209
+entry_point_name: ''
+experiment_id: '913539115052286410'
+lifecycle_stage: active
+run_id: 4ff8932c30884087bf0240bfc5e69791
+run_name: honorable-worm-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765519872786
+status: 3
+tags: []
+user_id: root
